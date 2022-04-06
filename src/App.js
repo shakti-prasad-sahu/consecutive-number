@@ -77,6 +77,7 @@ const App = () => {
   return (
     <>
       <div className="container">
+      <h1 style={{textAlign:"center",marginBottom:"1rem"}}>Consecutive Number</h1>
       <div className="random_container">
       <button className="random" onClick={setRadomAnimation}>
         Random Animation
